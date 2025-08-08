@@ -1,0 +1,19 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#container {
+    margin-top: 100px;
+}
+
+.character-slot {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+    cursor: pointer;
+}
